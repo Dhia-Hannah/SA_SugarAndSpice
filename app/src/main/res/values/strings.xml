@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SA_Sugar&amp;Spice</string>
+    <string name="title">Sugar and Spice</string>
+    <string name="des">Welcome to Sugar and Spice! View and add your favourite dessert recipes at a tap of a button!</string>
+    <string name="name">Recipe name: </string>
+    <string name="nameHint">Enter recipe name here</string>
+    <string name="ingredients">Ingredients: </string>
+    <string name="ingredientsHint">Enter ingredients here</string>
+    <string name="method">Method: </string>
+    <string name="methodHint">Enter methods here</string>
+    <string name="tips">Tips: </string>
+    <string name="tipsHint">Enter tips here (if any)</string>
+    <string name="view">View dessert recipes</string>
+    <string name="add">Add dessert recipes</string>
+    <string name="submit">submit</string>
+    <string name="des2">Your desert recipes: </string>
+</resources>
